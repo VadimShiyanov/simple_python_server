@@ -1,1 +1,1 @@
-# simple_python_server
+# Simple socket server on python
