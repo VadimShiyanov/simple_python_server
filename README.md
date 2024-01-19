@@ -1,2 +1,3 @@
 # Simple socket server on python
-Run socket_client.py and enter text to send message to server.
+Run socket_serve.py and socket_client.py
+Enter text in socket_client.py to send message to server.
