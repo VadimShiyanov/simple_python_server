@@ -37,5 +37,4 @@ while True:
             print(n, end="")
 
 # Close the file and the connection
-file.close()
 connection.close()
